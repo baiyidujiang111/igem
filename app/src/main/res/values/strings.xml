@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">DAMN GERM</string>
+    <string name="button2">button2</string>
+    <string name="tongyi">  </string>
+    <string name="button_skillB">B菌：可分泌En、bgl酶（分解1个低聚糖成为3个葡萄糖）</string>
+    <string name="button_skillC">C菌：可分泌Colicin E1（消耗1个葡萄糖分泌Colicin E1获得其他菌3个糖，选择发动，1回合限1次）</string>
+    <string name="button_skillD">D菌：可分泌Colicin N（消耗1个葡萄糖分泌Colicin E1获得其他菌2个糖，选择发动，1回合2次）</string>
+    <string name="button_skillA">A菌：可分泌Ex酶（分解1个纤维素成为2个低聚糖）</string>
+    <string name="textview">textptt</string>
+    <string name="textxws">textxws</string>
+    <string name="textdjt">textdjt</string>
+    <string name="Achoose">Achoose</string>
+    <string name="Bchoose">Bchoose</string>
+    <string name="Cchoose">Cchoose</string>
+    <string name="Dchoose">Dchoose</string>
+    <string name="action">开始回合</string>
+    <string name="change">交易</string>
+    <string name="end">结束</string>
+    <string name="C_A">C_A</string>
+    <string name="C_B" />
+    <string name="C_D">C_D</string>
+    <string name="C_C">C_C</string>
+    <string name="jinengend">技能结束</string>
+    <string name="rule">After starting the game, each of the four players selected the bacteria they want to use (a bacteria can only be selected once)\n\n
+
+The game is played in the order of ABCD bacteria\n\n
+
+Click Start Turn when you reach your turn\n\n
+
+Click on the start turn to launch the skills by clicking on the role card\n\n
+
+Click on the trade to enter the trading stage, you can choose to replace your own resources\n\n
+
+Click End, End Round and end consumption settlement\n\n\n
+
+Round start\n\n
+
+Get two resources from the environment at random.\n\n
+</string>
+    <string name="rule2">Role skills\n\n
+        Bacteria A - Ex enzymes can be secreted (breaking down 1 cellulose into 2 low-sugar)\n\n
+        B bacteria - can secrete En\bgl enzymes (break down 1 oligosaccharides to become 3 glucose)\n\n
+        C bacteria - can secrete Colicin E1 (consumption of 1 glucose secretion Colicin E1 Get 3 sugars from other bacteria, choose to start,1 turn limited to 1 time)\n\n
+        D bacteria - can secrete Colicin N(consume 1 glucose secretion Colicin E1 Get other bacteria 2 sugars, choose to start,1 round 2 times)\n\n
+</string>
+    <string name="rule3">Trading phase\n\n
+        Click on glucose to exchange a cellulose or oligosaccharides randomly with other bacteria\n\n
+        Click cellulose to exchange a glucose with other bacteria\n\n
+        Click on polysaccharide to exchange a glucose for other bacteria\n\n
+        Trade up to two times per round, trading is not necessarily successful, and there will even be trades that go back\n\n
+</string>
+    <string name="rule4">Consumption phase\n\n
+        Bacteria consume one glucose, and if the amount of glucose is less than one, the game fails\n\n
+        Settlement\n\n
+        1. Only one player survives when the game ends and he becomes the winner\n\n
+        2. Limited resources in the environment, when all the glucose is consumed and the game ends, the player with the most glucose wins\n\n
+</string>
+    <string name="button">button</string>
+    <string name="button3">next</string>
+    <string name="button4">exit</string>
+</resources>
